@@ -670,7 +670,7 @@ if [ ! -f /etc/arch-release ]; then
 	exit
 fi
 
-setfont gr928a-8x16.psfu
+setfont ter-v32n
 echo -e "----------------------${IGreen} Archon ${NC}--------------------------"
 echo "     _____                                              "
 echo "  __|_    |__  _____   ______  __   _  _____  ____   _  "
